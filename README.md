@@ -44,6 +44,8 @@ GIVEN a note-taking application
 
 https://note-taker-jingsi-2022.herokuapp.com/
 
+![GitHub Logo](/public/assets/images/applicationImg.JPG)
+
 ## **Contribution** 
 
 Made with by ❤️ Jingsi Gong
