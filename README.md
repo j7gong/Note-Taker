@@ -42,6 +42,8 @@ GIVEN a note-taking application
 
 ## **Website**
 
+https://note-taker-jingsi-2022.herokuapp.com/
+
 ## **Contribution** 
 
 Made with by ❤️ Jingsi Gong
